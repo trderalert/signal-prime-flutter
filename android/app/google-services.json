@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "391535520845",
+    "project_id": "copytrade-b226c",
+    "storage_bucket": "copytrade-b226c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391535520845:android:82c9f79d6ebe5e44858004",
+        "android_client_info": {
+          "package_name": "com.copy_trade.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIqNhXnQsCGL8Lurdl2HxuSRjyo9S_f_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391535520845:android:b632259bb512214c858004",
+        "android_client_info": {
+          "package_name": "com.signalsPrime.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIqNhXnQsCGL8Lurdl2HxuSRjyo9S_f_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
